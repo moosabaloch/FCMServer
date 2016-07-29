@@ -9,7 +9,7 @@ in 3rd link you you can post json data and it'll return your json in response
 first you must have to test 3rd link if the data will be reflected as you sent then you can continue to 4th link .
 <br><br>
 <br>
-
+Note: in data_json key you can add your own values.
 
 JSON Format Should be : 
 
