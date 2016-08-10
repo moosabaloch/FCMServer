@@ -1,8 +1,8 @@
 Application URLS<br>
 1, Home page: https://fcmserver.herokuapp.com/ <br>
 2, Check Json Format: https://fcmserver.herokuapp.com/fcm/jsonformat<br>
-3, Check Json Post Request: https://fcmserver.herokuapp.com/jsonpost<br>
-4, POST Notification: https://fcmserver.herokuapp.com/notify<br>
+3, Check Json Post Request: https://fcmserver.herokuapp.com/fcm/jsonpost<br>
+4, POST Notification: https://fcmserver.herokuapp.com/fcm/notify<br>
 At home page its simple page
 In 2nd link you can take help how the data should be sent to 4 link to notify user.
 in 3rd link you you can post json data and it'll return your json in response 
