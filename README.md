@@ -5,7 +5,7 @@ Application URLS<br>
 4, POST Notification: https://fcmserver.herokuapp.com/fcm/notify<br>
 At home page its simple page
 In 2nd link you can take help how the data should be sent to 4 link to notify user.
-in 3rd link you you can post json data and it'll return your json in response 
+in 3rd link you you can post json data and it'll return your json in response to send data to the server you must have to add a key test1 in the form of JSON then put another JSON as value example {"test1":YOUR_JSON_HERE}.
 first you must have to test 3rd link if the data will be reflected as you sent then you can continue to 4th link .
 <br><br>
 <br>
